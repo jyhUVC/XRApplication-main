@@ -1,0 +1,1 @@
+C:\Users\zdaw2\Downloads\arcore-android-sdk-1.21.0\arcore-android-sdk-1.21.0\tools\arcoreimg\windows\arcoreimg.exe eval-img --input_image_path=C:\Github\XRApp\Assets\ImageDataBase\RCU-600_300H.png
